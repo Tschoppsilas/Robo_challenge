@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (robot_challenge_fs25)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.5.3 (sftp://pi@192.168.185.178:22/usr/bin/python3) (3)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (robot_challenge_fs25)" project-jdk-type="Python SDK" />
 </project>
