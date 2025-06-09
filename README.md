@@ -50,6 +50,8 @@ Zumi Function Documentation: https://docs.robolink.com/docs/Zumi/Python/Function
 
 ## Authors
 
-Silas Tschopp
+Silas Tschopp  
 
-Sabina Grüner
+Roberto Lorusso
+
+Sabina Grüner  
